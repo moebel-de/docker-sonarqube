@@ -6,7 +6,7 @@ This is a temporary workaround for Sonarqube 7.2 Release. As per an [open issue]
 
 ``` There’s no Docker image (on purpose, we didn’t forget!) for this version.```
 
-So, until we have an official release, [this image](https://hub.docker.com/r/kubus/docker-sonarqube/) can be used.
+So, until we have an official release, [this image](https://hub.docker.com/r/kubus/sonarqube/) can be used.
 
 
 See the Hub page for the full readme on how to use the Docker image and for information regarding contributing and issues.
